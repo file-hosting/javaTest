@@ -25,5 +25,6 @@ public class Lab2 {
         mtr = ft * 0.305;
         System.out.println(mtr + " meter");
         System.out.println("Test commit");
+        System.out.println("Test commit");
     }
 }
