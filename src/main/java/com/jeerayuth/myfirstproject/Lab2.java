@@ -24,5 +24,6 @@ public class Lab2 {
         ft = input.nextDouble();
         mtr = ft * 0.305;
         System.out.println(mtr + " meter");
+        System.out.println("Test commit");
     }
 }
