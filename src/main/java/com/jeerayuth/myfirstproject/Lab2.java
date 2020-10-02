@@ -26,5 +26,8 @@ public class Lab2 {
         System.out.println(mtr + " meter");
         System.out.println("Test commit");
         System.out.println("Retest");
+        
+        System.out.println("Test commit by Jeerayuth");
+        System.out.println("Retest by Jeerayuth");
     }
 }
